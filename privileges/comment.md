@@ -1,3 +1,5 @@
+![stackoverflow com_help_privileges_comment](https://github.com/imvickykumar999/StatckOverFlow-Reputation/assets/50515418/810267ab-d8a6-4c1c-92d9-59ae4bab0e0a)
+
 <div class="page-description s-prose js-post-body w100">
         <h3>What are comments?</h3>
 
