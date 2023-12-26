@@ -1,4 +1,9 @@
 
+'''
+why is "wikitable sortable jquery-tablesorter" is not working 
+in scrapping and "wikitable sortable" is working?
+'''
+
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -9,5 +14,5 @@ soup = bs(req.content, 'html5lib')
 table = soup.findAll('table', attrs = {'class':'wikitable sortable'})
 print(table[0])
 
-for i in table[0]:
-    print(i.findAll('tr'))
+# for i in table[0]:
+#     print(i.findAll('tr'))
